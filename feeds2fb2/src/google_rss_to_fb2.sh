@@ -1,0 +1,1 @@
+python feeds2fb2.py --enable-pics -t opml google-reader-subscriptions.xml GOOGLE-RSS
