@@ -1,0 +1,2 @@
+http://bash.org.ru/rss
+http://googlerussiablog.blogspot.com/atom.xml

@@ -1,0 +1,16 @@
+<opml version="1.0">
+    <head>
+        <title>Traut subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="Thoughts Thru Oxygen"
+            title="Thoughts Thru Oxygen" type="rss"
+            xmlUrl="http://out.com.ua/blog/feed/" htmlUrl="http://out.com.ua/blog"/>
+        <outline text="Блог &quot;Техническая книга&quot;"
+            title="Блог &quot;Техническая книга&quot;" type="rss"
+            xmlUrl="http://2read.ru/feed/" htmlUrl="http://2read.ru"/>
+        <outline text="Хабрахабр: Главная / Захабренные"
+            title="Хабрахабр: Главная / Захабренные" type="rss"
+            xmlUrl="http://www.habrahabr.ru/rss/main/" htmlUrl="http://habrahabr.ru/"/>
+    </body>
+</opml>
