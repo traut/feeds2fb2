@@ -14,6 +14,9 @@ import xml.sax.saxutils as saxutils
 import feedparser, time, locale, sys, getopt, md5, urllib, base64, re, locale, codecs, os, zipfile
 
 local_lang, local_enc = locale.getdefaultlocale()
+if local_enc == None:
+    local_lang = 'en_US'
+    local_enc = 'UTF8'
 
 logfile_name = "feeds2fb2.log"
 timestampfile_name = "feeds2fb2.timestamp"
